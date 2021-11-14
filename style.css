@@ -13,7 +13,4 @@ body {
   .about-me a {
     @apply font-mono font-bold underline;
   }
-  .about-me .contact-info {
-    @apply bg-yellow-100 dark:bg-gray-700 p-4 my-4;
-  }
 }
